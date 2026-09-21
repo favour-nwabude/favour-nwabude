@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Open Source Contributions
+
+- [aistra0528/Hail #442](https://github.com/aistra0528/Hail/pull/442) — Fixed a biometric verify lifecycle bug (root-caused, patched, tested on-device)
